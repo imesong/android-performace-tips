@@ -12,7 +12,7 @@
 
 [Android app 性能设计技巧][2]
 
-[《Facebook的Android调试工具Stetho介绍][3]
+[Facebook的Android调试工具Stetho介绍][3]
 
 [Android Lint(官方代码优化利器)][4]
 
@@ -25,6 +25,8 @@
 [Android中View绘制优化之三---- 优化View][7]
 
 [Android 性能优化之ViewSub](http://www.cnblogs.com/lwbqqyumidi/p/4047108.html)
+
+[Android UI性能优化实战 识别绘制中的性能问题](http://blog.csdn.net/lmj623565791/article/details/45556391)
 
 
 
