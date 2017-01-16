@@ -10,10 +10,10 @@
 
 [Android 官方资料 Android性能优化典范 - 第2季][1]
 
-[Android 官方资料 Android性能优化典范 - 第3季]（http://hukai.me/android-performance-patterns-season-3/）
-[Android 官方资料 Android性能优化典范 - 第4季]（http://hukai.me/android-performance-patterns-season-4/）
-[Android 官方资料 Android性能优化典范 - 第5季]（http://hukai.me/android-performance-patterns-season-5/）
-[Android 官方资料 Android性能优化典范 - 第6季]（http://hukai.me/android-performance-patterns-season-6/）
+[Android 官方资料 Android性能优化典范 - 第3季](http://hukai.me/android-performance-patterns-season-3/)
+[Android 官方资料 Android性能优化典范 - 第4季](http://hukai.me/android-performance-patterns-season-4/)
+[Android 官方资料 Android性能优化典范 - 第5季](http://hukai.me/android-performance-patterns-season-5/)
+[Android 官方资料 Android性能优化典范 - 第6季](http://hukai.me/android-performance-patterns-season-6/)
 
 [Android app 性能设计技巧][2]
 
