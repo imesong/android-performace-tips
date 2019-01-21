@@ -1,10 +1,10 @@
 # android-performace-tips
 
-###android 性能优化相关文章整理
+### android 性能优化相关文章整理
 
 -------------------------------
 
-###1.性能优化资料
+### 1.性能优化资料
 
 [Android 官方资料 Android 性能优化典范- 第1季][0]
 
@@ -33,7 +33,7 @@
 [TraceView 使用教程](http://bxbxbai.github.io/2014/10/25/use-trace-view/)
 
 
-###2.View优化
+### 2.View优化
 
 [Android中View绘制优化之一---- 优化布局层次][5]
 
